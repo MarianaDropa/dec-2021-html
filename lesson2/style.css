@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.class {
+    background: darkred;
+    height: 50px;
+    width: 100%;
+    text-align: end;
+    margin-left: 20px;
+}
+h1 {
+    color: #fff;
+    margin-right: 250px;
+}
+
+.one {
+    background: silver;
+    margin-top: 30px;
+    height: 70px;
+    width: 100%;
+    margin-left: 20px;
+
+}
+
+.two {
+    background: cornflowerblue;
+    height: 85px;
+    width: 100%;
+    margin-left: 20px;
+}
+
+.three {
+    background: mediumseagreen ;
+    height: 350px;
+    width: 350px;
+    margin-left: 20px;
+}
+
+.four {
+    background: #ad8aad;
+    height: 350px;
+    width: 350px;
+    margin-left: 20px;
+    border-radius: 40px;
+}
