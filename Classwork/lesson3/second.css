@@ -1,0 +1,43 @@
+.a {
+    background: yellow;
+    width: 500px;
+    height: 120px;
+    margin-bottom: 30px;
+    border: 2px solid black;
+
+
+}
+.container {
+    display: flex;
+}
+
+.b {
+    background: #ad8aad;
+    width: 100px;
+    height: 392px;
+    margin-right: 20px;
+    margin-bottom: 30px;
+    border: 2px solid black;
+}
+
+.container1 {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.c {
+    background: deepskyblue;
+    height: 120px;
+    width: 335px;
+    margin: 40px;
+    border: 2px solid black;
+
+}
+
+.d {
+    background: yellow;
+    width: 500px;
+    height: 120px;
+    border: 2px solid black;
+}
