@@ -1,20 +1,55 @@
-.Mariana {
+.A {
+
+    background: hotpink;
+    height: 150px;
+    width: 700px;
+    color: white;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+
+.BCDEFGH{
+    display: flex;
+    justify-content: center;
+}
+
+.BCDEFG{
     display: flex;
 
 }
-.T {
-    background: silver;
+.wrap {
+    background: white;
+    height: 300px;
     width: 500px;
-    height: 80px;
-}
-
-.Marta {
     display: flex;
-    flex-direction: column;
+    flex-wrap: wrap;
 
 }
+
 .a {
-    background: silver;
-    width: 60px;
-    height: 60px;
+    background: yellow;
+    height: 149px;
+    width: 149px;
+    color: white;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 17px;
+}
+
+.h {
+    background: greenyellow;
+    height: 299px;
+    width: 200px;
+    color: white;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 40px;
 }
