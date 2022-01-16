@@ -1,0 +1,32 @@
+.A {
+    background: silver;
+    width: 400px;
+    height: 70px;
+}
+
+
+.wrap {
+    display: flex;
+
+}
+.B {
+    background: silver;
+    width: 281px;
+    height: 70px;
+    margin-top: 5px;
+}
+.C {
+    background: silver;
+    width: 87px;
+    height: 140px;
+    margin-right: 10px;
+    margin-top: 5px;
+}
+
+.F {
+    background: silver;
+    width: 100px;
+    height: 170px;
+    margin-left: 290px;
+    margin-bottom: 200px;
+}
