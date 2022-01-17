@@ -1,14 +1,14 @@
 .a {
     margin: 10px;
-    width: 350px;
-    height:50px;
+    width: 347px;
+    height:100px;
     background: yellow;
     font-size: 35px;
     text-align: center;
     padding-top: 50px;
     border: 2px solid black;
     color: white;
-    padding-bottom: 20px;
+
 }
 .wrap {
     display: flex;
@@ -45,7 +45,7 @@
 
 .footer {
     width: 350px;
-    height:100px;
+    height:150px;
     background: yellow;
     margin: 10px;
     font-size: 35px;
