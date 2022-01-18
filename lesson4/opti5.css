@@ -1,0 +1,59 @@
+.flex {
+    display: flex;
+}
+.size {
+    font-size: 40px;
+}
+.justy {
+    justify-content: center;
+}
+.align {
+    align-items: center;
+}
+.margb {
+    margin-bottom: 10px;
+}
+.a{
+    background: silver;
+    height: 200px;
+    width: 1100px;
+}
+.color {
+    color: white;
+}
+.w900 {
+    width: 900px;
+}
+.wrap {
+    background: white;
+    height: 500px;
+    flex-wrap: wrap;
+}
+
+.b{
+    background: blue;
+    margin-right: 25px;
+}
+.margr {
+    margin-right: 17px;
+}
+.h250 {
+    height: 250px;
+}
+.w280 {
+    width: 280px;
+}
+.c{
+    background: yellow;
+}
+.d{
+    background: pink;
+}
+.e{
+    background: cornflowerblue;
+}
+.f{
+    background: violet;
+    height: 510px;
+    width: 199px;
+}
