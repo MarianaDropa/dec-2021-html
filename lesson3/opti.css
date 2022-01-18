@@ -1,0 +1,41 @@
+.w500 {
+    width: 500px;
+}
+.h200 {
+    height: 200px;
+}
+.h400 {
+    height: 300px;
+}
+.color {
+    background: cornflowerblue;
+}
+.text {
+    text-align: center;
+}
+.pad40 {
+    padding-top: 40px;
+}
+.size {
+    font-size: 30px;
+}
+.white {
+    color: white;
+}
+.box {
+    box-sizing: border-box;
+}
+.marg40 {
+    margin-top: 40px;
+
+}
+.second {
+    display: flex;
+}
+.a {
+    width: 160px;
+    height: 160px;
+    background: deepskyblue;
+    margin-right: 10px;
+
+}
