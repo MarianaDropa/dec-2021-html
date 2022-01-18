@@ -1,0 +1,39 @@
+.flex {
+    display: flex;
+}
+.justy {
+    justify-content: center;
+}
+.direction {
+    align-items: center;
+}
+.text {
+    text-align: center;
+}
+.classA {
+    height: 150px;
+    background: greenyellow;
+}
+.size {
+    font-size: 60px;
+}
+.wid {
+    width: 100%;
+}
+.column{
+    flex-direction: column;
+}
+.classB {
+    margin: 5px 5px 0px 0px;
+    height: 247px;
+    width:95%;
+    background: violet;
+}
+.H {
+    width: 35%;
+}
+.classH {
+    margin-top:5px;
+    height: 500px;
+    background: cornflowerblue;
+}
