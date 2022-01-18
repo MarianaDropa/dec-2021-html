@@ -1,0 +1,48 @@
+
+.w380{
+    width: 380px;
+}
+.h100{
+    height: 100px;
+}
+.back{
+    background: yellow;
+}
+.size{
+    font-size: 20px;
+}
+.text{
+    text-align: center;
+}
+.wrap{
+    display: flex;
+
+}
+.box1 {
+    width: 100px;
+    height:220px;
+    background: lightcoral;
+    box-sizing: border-box;
+    padding-top: 70px;
+}
+.box2 {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.back2{
+    background: mediumseagreen;
+}
+.w260{
+    width: 260px;
+}
+.h100 {
+    height: 100px;
+}
+.margt{
+    margin-top: 20px;
+}
+.margl{
+    margin-left: 10px;
+}
