@@ -1,0 +1,148 @@
+body {
+    margin: 0px;
+    background: #d2c1c1;
+}
+
+.main {
+    border: 2px solid #181717;
+    border-radius: 1%;
+    box-sizing: border-box;
+    background: lightskyblue;
+}
+
+.h300 {
+    height: 300px;
+}
+
+.font {
+
+    font-size: 45px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.body {
+    height: 900px;
+    width: 80%;
+    margin: 0;
+    background: tomato;
+    margin-left: 10%;
+    margin-top: 10%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.a {
+    width: 100%;
+}
+
+.b {
+    width: 70%;
+    height: 600px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.second {
+    width: 33.3%;
+    height: 300px;
+}
+
+.c {
+    width: 30%;
+    height: 600px;
+}
+
+/*********************************************************************/
+
+@media screen and (min-width: 922px) and (max-width: 1200px) {
+
+    body {
+        background: #d2c1c1;
+    }
+
+    .body {
+        height: 1250px;
+        width: 80%;
+        margin: 0;
+        background: tomato;
+        margin-left: 10%;
+        margin-top: 10%;
+
+    }
+    .w98 {
+        width: 98%;
+        margin-left: 1%;
+    }
+
+    .a {
+        height: 200px;
+        margin-top: 3%;
+
+    }
+
+    .b {
+        width: 70%;
+        height: 600px;
+        margin-left: 15%;
+        grid-row-gap: 5%;
+    }
+
+    .second {
+        margin-left: 2%;
+        width: 30%;
+        height: 220px;
+    }
+
+    .c {
+        height: 300px;
+        margin-bottom: 1%;
+    }
+}
+
+/***********************************************************************/
+
+@media screen and (min-width: 0px) and (max-width: 1200px) {
+
+    body {
+        background: darkgrey;
+    }
+
+    .body {
+        height: 1100px;
+        width: 70%;
+        margin: 0;
+        background: tomato;
+        margin-left: 15%;
+        margin-top: 10%;
+
+    }
+    .menu {
+        width: 98%;
+        margin-left: 1%;
+    }
+
+    .a {
+        height: 200px;
+        margin-top: 5%;
+    }
+
+    .b {
+        width: 80%;
+        height: 500px;
+        margin-left: 10%;
+        grid-row-gap: 5%;
+    }
+
+    .second {
+        width: 30%;
+        height: 220px;
+    }
+
+    .c {
+        height: 300px;
+    }
+}
